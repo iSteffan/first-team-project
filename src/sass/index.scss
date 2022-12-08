@@ -1,1 +1,11 @@
-@import './homepage/module';
+// Нормалайз
+@import './common';
+
+// Модальні вікна
+@import './modal-window/module-modal-window';
+
+// Стилі сторінок
+@import './homepage/module-homepage';
+@import './restaurant/module-restaurant';
+@import './hotel/module-hotel';
+@import './room/module-room';
